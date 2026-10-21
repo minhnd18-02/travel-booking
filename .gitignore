@@ -1,0 +1,16 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+TestResults/
+
+# Node
+node_modules/
+
+# Ảnh tải lên ở dev (M9.2)
+backend/**/media/
+
+# Bí mật cục bộ
+.env
+appsettings.*.local.json
